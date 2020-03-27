@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name" translatable="false">Grocery Delivery</string>
+    <string name="currency" translatable="false">Rs.</string>
+    <string name="title_activity_main" translatable="false">فعالیتهای اصلی</string>
+    <string name="txtCredits" translatable="false"><a href="http://www.google.com">گوگل</a></string>
+    <string name="tit" translatable="false">عنوان</string>
+    <string name="action_settings" translatable="false">تنظیمات</string>
+    <string name="action_search" translatable="false">جستجو</string>
+    <string name="search_hint" translatable="false">اینجا بنویسید...</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="prd_id" translatable="false">شماره محصول</string>
+    <string name="orderdetail" translatable="false">جزییات سفارش</string>
+    <string name="nav_terms" translatable="false">Terms &amp; Conditions</string>
+    <string name="user_id" translatable="false">شماره مشتری</string>
+    <!-- string.xml -->
+    <string name="nav_dashboard" translatable="false">داشبورد</string>
+    <string name="nav_app_user" translatable="false">کاربران برنامه</string>
+    <string name="nav_Products" translatable="false">محصولات</string>
+    <string name="nav_stock_update" translatable="false">بروزرسانی انبار</string>
+    <string name="nav_order" translatable="false">سفارشات</string>
+    <string name="nav_stock" translatable="false">انبار</string>
+    <string name="nav_edit_profile" translatable="false">ویرایش حساب کاربری</string>
+    <string name="nav_logout" translatable="false">خروج از حساب کاربری</string>
+    <string name="orders" translatable="false">سفارشات</string>
+    <string name="pastorder" translatable="false">سفارشات اخیر</string>
+    <!-- activity_login.xml -->
+    <string name="et_login_phone_hint" translatable="false">شماره تلفن</string>
+    <string name="tv_login_email" translatable="false">شماره ID</string>
+    <string name="tv_login_password" translatable="false">رمزعبور</string>
+    <string name="btn_login" translatable="false">ورود</string>
+    <string name="btn_send" translatable="false">ارسال</string>
+    <string name="tv_login_note" translatable="false">قبل از استفاده از برنامه میبایست شماره تلفن خود را تایید کنید</string>
+    <string name="btn_signin" translatable="false">ورود</string>
+    <string name="assign_ord_de" translatable="false">تحویل داده شد</string>
+    <!-- activity_register.xml -->
+    <string name="tv_reg" translatable="false">ثبت نام</string>
+    <string name="nm" translatable="false">نام</string>
+    <string name="ph" translatable="false">شماره تلفن</string>
+    <string name="em" translatable="false">ایمیل</string>
+    <string name="tv_reg_name_hint" translatable="false">نام</string>
+    <string name="tv_reg_pincode" translatable="false">کد پستی / کد منطقه</string>
+    <string name="tv_reg_socity" translatable="false">منطقه</string>
+    <string name="btn_reg_socity_choose" translatable="false">منطقه را انتخاب کنید</string>
+    <string name="tv_reg_house" translatable="false">شماره پلاک خانه</string>
+    <string name="btn_reg_update" translatable="false">بروزرسانی حساب کاربری</string>
+    <string name="et_reg_search" translatable="false">جستجوی منطقه</string>
+    <string name="tv_reg_note" translatable="false">نکته : سرویس تنها برای ROJKIT فعال است</string>
+    <string name="tv_reg_address" translatable="false">آدرس</string>
+    <string name="et_reg_address" translatable="false">آدرس کامل</string>
+
+    <!-- fragment_cart.xml -->
+    <string name="tv_cart_title" translatable="false">کارت</string>
+    <string name="tv_cart_clear" translatable="false">پاکسازی تمامی محصولات</string>
+    <string name="tv_cart_checkout" translatable="false">ادامه پرداخت</string>
+    <string name="tv_cart_total" translatable="false">مجموع:\u0020</string>
+    <string name="tv_cart_item" translatable="false">موارد:\u0020</string>
+    <string name="clr" translatable="false">پاکسازی</string>
+    <string name="chs" translatable="false">انتخاب</string>
+    <string name="firebas" translatable="false">Firebase Activity</string>
+    <string name="up" translatable="false">بارگزاری</string>
+    <string name="dis" translatable="false">نمایش توکن</string>
+    <string name="sv" translatable="false">ذخیره</string>
+    <string name="tv_cart_rs" translatable="false">\u0020Rs</string>
+
+    <!-- fragment_delivery_time.xml -->
+    <string name="tv_del_title" translatable="false">زمان/ تاریخ تحویل</string>
+    <string name="tv_del_address" translatable="false">آدرس تحویل</string>
+    <string name="et_del_address_hint" translatable="false">آدرس تحویل را وارد کنید</string>
+    <string name="tv_del_continue" translatable="false">ادامه با زمان</string>
+    <string name="tv_del_date" translatable="false">تاریخ تحویل را وارد کنید</string>
+    <string name="tv_del_time" translatable="false">ساعت تحویل را انتخاب کنید</string>
+    <string name="tv_del_date_time" translatable="false">زمان/تاریخ تحویل</string>
+    <string name="tv_total_item_amount" translatable="false">مجموع موارد و قیمت ها</string>
+    <string name="tv_total_total" translatable="false">مجموع مبالغ </string>
+
+    <!-- fragment_home.xml -->
+    <string name="tv_home_cat" translatable="false">محصولات</string>
+    <string name="tv_home_view" translatable="false">نمایش همه</string>
+
+    <!-- fragment_Wallet.xml -->
+    <string name="tv_app_name" translatable="false">کیف پول</string>
+    <string name="st" translatable="false">وضعیت</string>
+    <!-- fragment_Reward.xml -->
+    <string name="tv_toolbar_name" translatable="false">جوایز</string>
+    <!-- row_product_rv.xml -->
+    <string name="tv_pro_add" translatable="false">افزودن</string>
+    <string name="tv_pro_update" translatable="false">بروزرسانی</string>
+    <string name="tv_pro_price" translatable="false">قیمت هر\u0020</string>
+    <string name="inc" translatable="false">افزایش</string>
+    <string name="cat" translatable="false">کد دسته</string>
+    <string name="un_v" translatable="false">مقدار واحد</string>
+    <string name="mark" translatable="false">تحویل داده شده</string>
+    <string name="pr" translatable="false">قیمت</string>
+    <string name="tv_pro_rs" translatable="false">\u0020Rs.\u0020</string>
+    <string name="tv_pro_total" translatable="false">جمع نهایی: </string>
+
+    <!-- fragment_confirm_order.xml -->
+    <string name="tv_conf_order_title" translatable="false">جزئیات پرداخت</string>
+
+    <!-- fragment_my_order_detail.xml -->
+    <string name="fire" translatable="false">فایر بیس</string>
+    <string name="tv_order_cancle" translatable="false">لغو سفارش</string>
+    <string name="tv_order_summery" translatable="false">خلاصه</string>
+    <string name="tv_order_total" translatable="false">مجموع: Rs.</string>
+    <string name="tv_order_qty" translatable="false">کمیت</string>
+    <string name="tv_order_rs" translatable="false">Rs.</string>
+    <string name="unit" translatable="false">واحد</string>
+    <string name="add_pur" translatable="false">افزودن خرید</string>
+    <!-- fragment_order_thanks.xml -->
+    <string name="tv_thanks_title" translatable="false">از خرید شما سپاسگذاریم</string>
+    <string name="tv_thanks_home" translatable="false">ادامه به صفحه اصلی</string>
+    <string name="tv_thanks_order" translatable="false">پیگیری سفارش من</string>
+
+    <!-- Forgot password -->
+    <string name="forgot" translatable="false">آیا رمز را فراموش کرده اید ؟</string>
+
+    <!-- Code message and concat  string -->
+    <string name="my_order" translatable="false">سفارش من</string>
+    <string name="edit_profile" translatable="false">ویرایش پروفایل</string>
+    <string name="delivery" translatable="false">تحویل</string>
+    <string name="delivery_date" translatable="false">تاریخ تحویل </string>
+    <string name="please_select_date" translatable="false">لطفا تاریخ را انتخاب کنید</string>
+    <string name="no_rcord_found" translatable="false">هیج رکوردی یافت نشد</string>
+    <string name="connection_time_out" translatable="false">اتصال با اینترنت قطع شد</string>
+    <string name="add_delivery_address" translatable="false">افزودن آدرس تحویل</string>
+    <string name="order_now" translatable="false">الان سفارش دهید</string>
+    <string name="payment_detail" translatable="false">جزئیات پرداخت</string>
+    <string name="delivery_time" translatable="false">زمان تحویل</string>
+    <string name="please_enter_pincode" translatable="false">لطفا کد پین را وارد کنید</string>
+    <string name="receiver_mobile_number" translatable="false">شماره تلفن گیرنده</string>
+    <string name="receiver_name_req" translatable="false">نام گیرنده</string>
+    <string name="phone_too_short" translatable="false">شماره تلفن کوتاه است به طور صحیح وارد کنید</string>
+    <string name="please_add_address" translatable="false">لطفا آدرسی وارد کنید</string>
+    <string name="please_select_address" translatable="false">لطفا آدرسی انتخاب کنید</string>
+    <string name="please_select_date_time" translatable="false">لطفا ساعت و تاریخ را وارد کنید</string>
+    <string name="profile_updated" translatable="false">حساب کاربری بروزرسانی شد</string>
+    <string name="uploading_profile_data" translatable="false">در حال بارگزاری اطلاعات پروفایل</string>
+    <string name="cancle_order_note" translatable="false">مطمئنید؟\nشما می خواهید سفارش را لغو کنید؟</string>
+    <string name="no" translatable="false">خیر</string>
+    <string name="yes" translatable="false">بله</string>
+    <string name="thank_you" translatable="false">تشکر از شما</string>
+    <string name="ord_am" translatable="false">مبلغ سفارش</string>
+    <string name="pay_m" translatable="false">نوع پرداخت</string>
+    <string name="id" translatable="false">ID</string>
+    <string name="payment" translatable="false">پرداخت</string>
+    <string name="password_too_short" translatable="false">رمزعبور بسیار کوتاه است</string>
+    <string name="invalide_email_address" translatable="false">آدرس ایمیل نامعتبر است</string>
+    <string name="no_internet" translatable="false">ببخشید! به اینترنت متصل نیستید</string>
+    <string name="order_no" translatable="false">شماره سفارش:\u0020</string>
+    <string name="pending" translatable="false">در حال انجام</string>
+    <string name="confirm" translatable="false">تایید شده</string>
+    <string name="delivered" translatable="false">تحویل داده شده</string>
+    <string name="outfordeliverd" translatable="false">در حال تحویل \n تحویل داده شده به پیک</string>
+    <string name="cancle" translatable="false">لغو</string>
+    <string name="date_d" translatable="false">تاریخ:</string>
+    <string name="time_t" translatable="false">ساعت:</string>
+    <string name="search_msg" translatable="false">میان سبزیجات ، میوه جات و… جستجو کنید</string>
+    <string name="change_password" translatable="false">تغییر رمز عبور</string>
+    <string name="old_password" translatable="false">رمز عبور فعلی</string>
+    <string name="new_password" translatable="false">رمزعبور جدید</string>
+    <string name="confirm_password" translatable="false">تایید رمزعبور</string>
+    <string name="password_not_same" translatable="false">تایید رمزعبور و رمزعبور جدید تطابق ندارند</string>
+    <string name="delivery_charge" translatable="false">هزینه تحویل:\u0020</string>
+    <string name="amount" translatable="false">مبلغ:\u0020</string>
+    <string name="search_here" translatable="false">اینجا جستجو کنید</string>
+    <string name="total_amount" translatable="false">مجموع مبالغ:\u0020</string>
+    <string name="search" translatable="false">جستجو</string>
+    <string name="enter_keyword" translatable="false">لطفا کلید واژه را وارد کنید</string>
+    <string name="delete" translatable="false">حذف</string>
+    <string name="edit" translatable="false">ویرایش</string>
+    <string name="description" translatable="false">شرح:</string>
+    <string name="assign" translatable="false">واگذاری سفارش با موفقیت انجام شد</string>
+    <string name="cust_name" translatable="false">نام‌مشتری</string>
+    <string name="back" translatable="false">رفتن به عقب</string>
+    <string name="order_id" translatable="false">آی دی سفارش دهنده</string>
+    <string name="continue_btn" translatable="false">ادامه</string>
+    <string name="btn_snd" translatable="false">ارسال</string>
+    <string name="cust_ph" translatable="false">شماره تلفن مشتری</string>
+    <string name="today_order" translatable="false">سفارش امروز</string>
+    <string name="next_order" translatable="false">سفارش بعدی</string>
+    <!-- row_delivery_time.xml -->
+    <string name="tv_deli_socity" translatable="false">منطقه:</string>
+    <string name="tv_deli_mobile" translatable="false">شماره موبایل:</string>
+    <string name="tv_deli_pin" translatable="false">کد پین:</string>
+    <string name="rec_nm" translatable="false">نام تحویل گیرنده</string>
+    <string name="rec_num" translatable="false">شماره تلفن تحویل گیرنده</string>
+    <string name="hus_n" translatable="false">شماره پلاک.</string>
+    <string name="tt_t" translatable="false">مجموع موارد</string>
+    <string name="tracking_st" translatable="false">وضعیت پیگیری روشن است</string>
+    <!-- delivery_payment_detail_fragment.java -->
+    <string name="tv_deli_pay_ontime" translatable="false">سر ساعت :\u0020</string>
+    <string name="tv_deli_pay_address" translatable="false">آدرس:\u0020</string>
+    <string name="place_on" translatable="false">قرار داده شده در:</string>
+    <!-- delivery_get_address_adapter.java -->
+    <string name="reciver_name" translatable="false">نام تحویل گیرنده:\u0020</string>
+    <string name="reciver_mobile" translatable="false">شماره موبایل دریافت کننده:\u0020</string>
+    <string name="pincode" translatable="false">کد پین:\u0020</string>
+    <string name="house_no" translatable="false">شماره پلاک :\u0020</string>
+    <string name="socity" translatable="false">منطقه:\u0020</string>
+
+    <string name="link" translatable="false">Powered By <font color='green'>GoGrocer</font></string>
+
+</resources>
+
